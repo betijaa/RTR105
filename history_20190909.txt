@@ -1,0 +1,7 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  cd/
+    4  cd /
+    5  cd
+    6  history
+    7  history > history_20190909.txt

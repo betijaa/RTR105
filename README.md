@@ -15,3 +15,4 @@ Studiju kursa datormācībā (pamatkurss) elektroniskā klade
 - **cd** Nomainīt direktoriju
 - **cd .** solis uz vietas
 - **cd ..** solis
+-
